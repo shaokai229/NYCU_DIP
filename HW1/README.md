@@ -7,9 +7,9 @@
 Input
 
 ![image](https://github.com/shaokai229/DIP/blob/main/HW1/input1.bmp)
-Output
 
-![image](https://github.com/zeus950068/SOC_Lab/blob/main/soc_lab3_fir/Coefficient%20Read%20back.png)
+Output
+![image](https://github.com/shaokai229/DIP/blob/main/HW1/output1_flip.bmp)
 
 ## 2.Resolution
 ap_start
