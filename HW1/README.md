@@ -32,12 +32,18 @@ Output (4*2bits)
 
 
 ## 3.Scaling
-Xn stream-in
+Input
 
-![image](https://github.com/zeus950068/SOC_Lab/blob/main/soc_lab3_fir/Xn%20stream-in.png)
+![image](https://github.com/shaokai229/DIP/blob/main/HW1/input1.bmp)
 
-Yn stream-out
+Output (up-scaling)
 
-![image](https://github.com/zeus950068/SOC_Lab/blob/main/soc_lab3_fir/Yn%20streaom-out.png)
+![image](https://github.com/shaokai229/DIP/blob/main/HW1/output1_up.bmp)
+
+Output (down scaling)
+
+![image](https://github.com/shaokai229/DIP/blob/main/HW1/output1_down.bmp)
+
+
 
 
