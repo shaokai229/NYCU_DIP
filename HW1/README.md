@@ -9,6 +9,7 @@ Input
 ![image](https://github.com/shaokai229/DIP/blob/main/HW1/input1.bmp)
 
 Output
+
 ![image](https://github.com/shaokai229/DIP/blob/main/HW1/output1_flip.bmp)
 
 ## 2.Resolution
