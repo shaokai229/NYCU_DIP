@@ -6,7 +6,7 @@
 ## 1. flip
 Input
 
-![image](https://github.com/zeus950068/SOC_Lab/blob/main/soc_lab3_fir/coefficient%20program.png)
+![image](https://github.com/shaokai229/DIP/blob/main/HW1/input1.bmp)
 Output
 
 ![image](https://github.com/zeus950068/SOC_Lab/blob/main/soc_lab3_fir/Coefficient%20Read%20back.png)
